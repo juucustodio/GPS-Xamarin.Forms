@@ -13,7 +13,7 @@ namespace DemoGPS
         {
             InitializeComponent();
 
-            MainPage = new DemoGPS.MainPage();
+            MainPage = new DemoGPS.MainPageDemoGPS();
         }
 
         protected override void OnStart()
